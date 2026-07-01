@@ -4,8 +4,6 @@
 
 The AI Student Impact Analytics Dashboard is an interactive Power BI project that analyzes the impact of Generative AI on students' academic performance, study habits, skill retention, AI dependence, and mental well-being. The dashboard provides data-driven insights into how students across different majors and academic years use AI tools and how these factors influence learning outcomes.
 
-# 📊 Dashboard Preview
-
 ![AI Student Impact Analytics Dashboard](https://github.com/itz-rakhi/AI_Student_Impact/blob/main/Screenshot%202026-06-27%20224406.png)
 --
 

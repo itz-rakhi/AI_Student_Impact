@@ -6,7 +6,7 @@ The AI Student Impact Analytics Dashboard is an interactive Power BI project tha
 
 # 📊 Dashboard Preview
 
-![AI Student Impact Analytics Dashboard](https://raw.githubusercontent.com/itz-rakhi/AI-Student-Impact-Analytics-Dashboard/main/images/dashboard.png)
+![AI Student Impact Analytics Dashboard](https://github.com/itz-rakhi/AI_Student_Impact/blob/main/Screenshot%202026-06-27%20224406.png)
 --
 
 ## 🎯 Objectives
